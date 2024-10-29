@@ -1,7 +1,5 @@
 # PythonProjectTemplate
 
-# Quantum_RNG
-
 ## Setting up the virtual environment on Linux
 
 ### Create the virtual environment
